@@ -4,11 +4,11 @@ variable "isProd" {
 }
 
 variable "ami_id" {
-  default = "ami-03265a0778a880afb"
+  default = "ami-0f3c7d07486cad139"
 }
 
 variable "zone_id" {
-  default = "Z104317737D96UJVA7NEF"
+  default = "Z0451914JX4ZZ5BN1JZ"
 }
 
 variable "domain_name" {
